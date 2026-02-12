@@ -1,1 +1,20 @@
+#Perfect GitHub Structure
 
+```
+RAG-Research-Assistant/
+│
+├── app/
+│   ├── main.py
+│   ├── api/
+│   ├── services/
+│   ├── rag/
+│   ├── agents/
+│   └── utils/
+│
+├── data/
+├── vector_store/
+├── tests/
+├── requirements.txt
+├── README.md
+└── demo.png
+```
